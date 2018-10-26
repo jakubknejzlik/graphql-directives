@@ -1,6 +1,6 @@
 {
   "name": "gql-directives",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Collection of GraphQLDirectives",
   "author": "jakub.knejzlik",
   "license": "MIT",
