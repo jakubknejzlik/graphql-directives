@@ -1,5 +1,5 @@
 {
-  "name": "graphql-directives",
+  "name": "gql-directives",
   "version": "0.0.2",
   "description": "Collection of GraphQLDirectives",
   "author": "jakub.knejzlik",
